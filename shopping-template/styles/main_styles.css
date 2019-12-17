@@ -1,0 +1,42 @@
+/*
+// DEV: Esteban Ch. Lobo || 16-12-19
+*/ 
+
+/*  ------------------------------------------------------------
+      Third Party
+    ------------------------------------------------------------  */
+    @import url("libs/fontawesome-all.min.css");
+
+/*  ------------------------------------------------------------
+      Overrides
+    ------------------------------------------------------------  */
+    @import url("_overrides.css");
+
+/*  ------------------------------------------------------------
+      Utilities
+    ------------------------------------------------------------  */
+    @import url("_setup_global_elements.css");
+    @import url("_utilities.css");
+
+/*  ------------------------------------------------------------
+      Modules and Component
+    ------------------------------------------------------------ */
+    @import url("components/_hero_promo.css");
+    @import url("components/_header_nav.css");
+    @import url("components/_slider_promo.css");
+    @import url("components/_buy_items_listed.css");
+    @import url("components/_footer_home.css");
+    @import url("components/_modals.css");
+
+
+
+/*  ------------------------------------------------------------
+      Pages
+    ------------------------------------------------------------  */
+    @import url("pages/_home_landing.css");
+
+/*  ------------------------------------------------------------
+      Media Query
+    ------------------------------------------------------------  */
+    @import url("_media_query.css");
+    

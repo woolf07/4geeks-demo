@@ -1,0 +1,22 @@
+.owl-carousel {
+    padding: 40px 40px 0;
+    background-color: #eaeaea;
+}
+
+.owl-carousel .item .par-item {
+	text-align: center;
+    color: #ffd1d1;
+    background-color: #b95669;
+    font-weight: 100;
+}
+
+.owl-carousel .owl-nav {
+	display: none;
+}
+.title-slider {
+	text-align: center;
+    background: #f57575;
+    padding: 10px;
+    color: #fff;
+    font-size: 1.5em;
+}
